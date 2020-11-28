@@ -1,3 +1,3 @@
-# Itspire - HTTP Common Classes
+# Itspire - HTTP Common
 
 This library follows the PSR-12 convention.
